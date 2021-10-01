@@ -5,6 +5,8 @@
 [https://e2.cool](https://e2.cool) 「比别人会的多一点」
 
 ## 内容管理
-[https://strapi.io/](https://strapi.io) 「Strapi 是一个免费的开源无头 CMS，可在您需要的任何地方交付您的内容。」
+[https://strapi.io](https://strapi.io) 「Strapi 是一个免费的开源无头 CMS，可在您需要的任何地方交付您的内容。」
 
+## SCRM
+[https://weibanzhushou.com](https://weibanzhushou.com)「企业微信私域流量运营神器」
 ![amor](./file/image/amor.jpg)
