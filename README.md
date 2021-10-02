@@ -18,6 +18,8 @@
 | 微伴助手       | [https://weibanzhushou.com](https://weibanzhushou.com)| 企业微信私域流量运营神器      |
 
 ## 企业协作与管理平台
+| 名称        | 链接       | 介绍       |
+| :---- | :---- | :---- |
 | 飞书       | [https://www.feishu.cn](https://www.feishu.cn/)| 飞书，定义先进团队的工作方式。      |
 
 <div align="center">
