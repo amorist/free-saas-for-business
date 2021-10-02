@@ -10,7 +10,7 @@
 ## 内容管理
 | 名称        | 链接       | 介绍       |
 | :---- | :---- | :---- |
-| strapi| [[https://strapi.io](https://strapi.io)) | Strapi 是一个免费的开源无头 CMS，可在您需要的任何地方交付您的内容。|  
+| strapi| [https://strapi.io](https://strapi.io)) | Strapi 是一个免费的开源无头 CMS，可在您需要的任何地方交付您的内容。|  
 
 ## SCRM
 | 名称        | 链接       | 介绍       |
