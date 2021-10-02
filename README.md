@@ -1,4 +1,4 @@
-# free-saas-for-business
+# Free SaaS for business
 
 > Grow your business better and faster.
 
