@@ -9,4 +9,7 @@
 
 ## SCRM
 [https://weibanzhushou.com](https://weibanzhushou.com)「企业微信私域流量运营神器|免费好用的企业微信管理工具」
-![amor](./file/image/amor.jpg)
+
+<div align="center">
+    <img src="./file/image/amor.jpg" width = "300" alt="amor" align=center />
+</div>
