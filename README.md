@@ -20,7 +20,8 @@
 | 名称        | 链接       | 介绍       |
 | :---- | :---- | :---- |
 | 飞书       | [https://www.feishu.cn](https://www.feishu.cn)| 飞书，定义先进团队的工作方式。      |
-| 钉钉       | [https://www.dingtalk.com](https://www.dingtalk.com/)| 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同。      |
+| 钉钉       | [https://www.dingtalk.com](https://www.dingtalk.com)| 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同。      |
+| 企业微信       | [https://work.weixin.qq.com](https://work.weixin.qq.com)| 企业微信，是腾讯微信团队为企业打造的专业办公管理工具。      |
 
 <div align="center">
     <img src="./file/image/amor.jpg" width = "300" alt="amor" align=center />
